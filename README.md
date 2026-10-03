@@ -10,6 +10,12 @@ listening needs a Qobuz subscription.
 There are two parts. The **server** runs on one machine and does the heavy
 work. The **app** runs on your computers and phone and connects to it.
 
+![Favourites in the Stelly desktop app](docs/favourites.png)
+
+![The map of the space](docs/map.png)
+
+<img src="docs/phone.png" alt="The narrow, phone-sized layout" width="320">
+
 ## Downloads
 
 Everything is on the [latest release](../../releases/latest).
